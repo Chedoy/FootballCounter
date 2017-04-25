@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Football Counter</string>
+    <color name="dark_red">#A0000F</color>
+</resources>
